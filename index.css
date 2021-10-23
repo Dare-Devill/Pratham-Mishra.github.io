@@ -25,16 +25,16 @@ canvas{
     --gray5: #303030;
     --gray6: #202122;
     --b: rgb(0, 0, 0);
-    --w: rgb(255, 255, 255);
+    --w: rgb(236, 156, 183);
 }
 
 .light {
     --par-bg: var(--w);
-    --bg: rgba(255, 255, 255, 0.85);;
+    --bg: rgba(86, 156, 235, 0.719);;
     --text-color: var(--gray6);
     --mini-text: var(--gray5);
     --icon-color: var(--b);
-    --link-color: rgba(0,0,0,.54);
+    --link-color: rgba(253, 2, 2, 0.54);
     --contact-hover: var(--gray2);
     --box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 6px, rgba(0, 0, 0, 0.12) 0px 1px 4px;
     --cv-invert: 0%;
@@ -46,7 +46,7 @@ canvas{
     --text-color: var(--gray1);
     --mini-text: var(--gray2);
     --icon-color: var(--w);
-    --link-color: rgba(255, 255, 255, 0.507);
+    --link-color: rgba(245, 65, 65, 0.507);
     --contact-hover: var(--gray4);
     --box-shadow: 0px 0px 8px 3px rgba(102, 101, 102, 0.11);
     --cv-invert: 100%;
